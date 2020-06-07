@@ -8,7 +8,7 @@ A particle performing a random walk on a maze. At every timestep it moves into a
 
 ### Findings
 
-Details of my findings can be found in [HiddenMarkovModels.ipynb](https://github.com/DMarke99/Machine-Learning-Gym/blob/master/Hidden%20Markov%20Model/HiddenMarkovModels.ipynb), with the implementation of the model found in [hmm.py](https://github.com/DMarke99/Machine-Learning-Gym/blob/master/Hidden%20Markov%20Model/hmm.py).
+Details of my findings can be found in [HiddenMarkovModels.ipynb](https://github.com/DMarke99/Machine-Learning-Gym/blob/master/Hidden%20Markov%20Model/HiddenMarkovModels.ipynb), with the implementation of the model found in [hmm.py](https://github.com/DMarke99/Machine-Learning-Gym/blob/master/Hidden%20Markov%20Model/hmm.py). The notebook can be rendered at the [following link](https://nbviewer.jupyter.org/github/DMarke99/Machine-Learning-Gym/blob/master/Hidden%20Markov%20Model/HiddenMarkovModels.ipynb).
 
 ### Implementation
 
