@@ -1,7 +1,6 @@
 ## Hidden Markov Models - An exploration into the effectiveness of HMMs for location detection
 [![Preview of Location Estimation](https://i.gyazo.com/ce90b5119f19df33d90261bf0af36b74.gif)](https://gyazo.com/ce90b5119f19df33d90261bf0af36b74)
-*Figure 1: Location of the particle (right) 
-a heatmap of the predicted location of the particle (left)*
+*Figure 1: Location of the particle (right) and a heatmap of the predicted location of the particle (left)*
 
 ### Model Specification
 
