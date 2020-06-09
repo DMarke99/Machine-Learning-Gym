@@ -1,9 +1,9 @@
 ## Gaussian State Space Model - An exploration into the effectiveness of Kalman Filtration for location detection
-[![Image from Gyazo](https://i.gyazo.com/5f7540c552330c86163fb7df79d84edf.gif)](https://gyazo.com/5f7540c552330c86163fb7df79d84edf)
+[![Image from Gyazo](https://i.gyazo.com/8512de1ec4109031fa67517d951aced0.gif)](https://gyazo.com/8512de1ec4109031fa67517d951aced0)
 
 ### Model Specification
 
-A particle . We periodically observe noisy measurements of its location, and want to estimate the true location of the particle.
+A particle traverses a 2D map according to Newton's Laws of Motion, with random acceleration. We periodically observe noisy measurements of its location, and want to estimate the true location of the particle.
 
 ### Findings
 
