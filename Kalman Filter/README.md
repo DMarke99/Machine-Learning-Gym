@@ -1,5 +1,5 @@
 ## Gaussian State Space Model - An exploration into the effectiveness of Kalman Filtration for location detection
-[![Image from Gyazo](https://i.gyazo.com/8512de1ec4109031fa67517d951aced0.gif)](https://gyazo.com/8512de1ec4109031fa67517d951aced0)
+[![Image from Gyazo](https://i.gyazo.com/9ab2a6974daa767b98a2bd4825d2afa4.gif)](https://gyazo.com/9ab2a6974daa767b98a2bd4825d2afa4)
 
 ### Model Specification
 
